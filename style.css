@@ -35,9 +35,6 @@ html {
   --gray-text: #525252;
 }
 
-body {
-}
-
 h1 {
   font-size: var(--header1);
 }
